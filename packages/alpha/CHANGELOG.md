@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="2.1.4"></a>
+## [2.1.4](https://github.com/jovankrunic/lerna-conventional-commits-example/compare/@my-scope/alpha@2.1.2...@my-scope/alpha@2.1.4) (2018-09-25)
+
+**Note:** Version bump only for package @my-scope/alpha
+
+
+
+
+
 <a name="2.1.3"></a>
 ## [2.1.3](https://github.com/jovankrunic/lerna-conventional-commits-example/compare/@my-scope/alpha@2.1.2...@my-scope/alpha@2.1.3) (2018-09-25)
 
