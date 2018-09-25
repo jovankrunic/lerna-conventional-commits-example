@@ -1,8 +1,8 @@
 {
   "name": "@my-scope/usage",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "dependencies": {
-    "@my-scope/alpha": "^2.1.4",
+    "@my-scope/alpha": "^3.0.0",
     "@my-scope/beta": "^2.1.2"
   },
   "publishConfig": {

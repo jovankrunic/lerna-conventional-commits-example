@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/jovankrunic/lerna-conventional-commits-example/compare/@my-scope/alpha@2.1.4...@my-scope/alpha@3.0.0) (2018-09-25)
+
+
+### Features
+
+* add hallo ([473f671](https://github.com/jovankrunic/lerna-conventional-commits-example/commit/473f671))
+* translate into german ([3132e91](https://github.com/jovankrunic/lerna-conventional-commits-example/commit/3132e91))
+
+
+### BREAKING CHANGES
+
+* using german now, not english
+
+
+
+
 <a name="2.1.4"></a>
 ## [2.1.4](https://github.com/jovankrunic/lerna-conventional-commits-example/compare/@my-scope/alpha@2.1.2...@my-scope/alpha@2.1.4) (2018-09-25)
 
