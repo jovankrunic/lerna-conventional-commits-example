@@ -1,1 +1,1 @@
-module.exports = 'Helloooo you. Hello ';
+module.exports = 'Guten Tag ';
